@@ -54,5 +54,12 @@ catch(Exception $e){
 }
 ```
 
+##Advantages
+1. Connection to several database
+2. Singleton management for manage and use just one instanciation for each connection
+3. Let you make persistent or non persistent connection
+4. Cross-object transaction (automatically desactivate with persistent connection)
+5. Save PDOStatement for better performance
+
 ## License
 `FcPDO` is licensed under the MIT license. (http://opensource.org/licenses/MIT)
