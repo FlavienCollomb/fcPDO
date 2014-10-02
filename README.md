@@ -1,7 +1,6 @@
 fcPDO
 =====
 
-#FcPDO
 *Full compilation of PHP Database Objects for manipulating MySQL Database with PDO*
 
 Thanks `FcPDO`, you can connect to all your MySQL Databases and manage them. Just add a method for each Database like method 'database_test' in FcPDOId Object and GO!
