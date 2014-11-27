@@ -1,3 +1,5 @@
+<?php
+
 Class FcPDOId{
     /**
      * @param $database
