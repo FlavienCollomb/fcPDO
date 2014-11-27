@@ -1,5 +1,8 @@
 <?php
 
+require_once dirname(__FILE__).'/fcpdo.controller.php';
+require_once dirname(__FILE__).'/fcpdo.id.php';
+
 Class FcPDO{
     /**
      * Class FcPDO creates UTF8 PDO interface
