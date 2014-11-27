@@ -1,3 +1,5 @@
+<?php
+
 class FcPDOController {
     /**
      * Singleton FcPDOController
