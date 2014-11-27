@@ -1,3 +1,5 @@
+<?php
+
 Class FcPDO{
     /**
      * Class FcPDO creates UTF8 PDO interface
