@@ -9,8 +9,10 @@ Thanks `FcPDO`, you can connect to all your MySQL Databases and manage them. Jus
 To use `FcPDO` in your website, simply include fcpdo.controller.php in your PHP scripts. That's it! Super!
 
 ```php
-require_once "fcpdo.controller.php";
+require_once "fcpdo.php";
 ```
+
+Add method in fcpdo.id.php for each data connexion of your databases.
 
 ##Full Example
 ```php
